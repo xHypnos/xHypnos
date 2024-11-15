@@ -1,6 +1,8 @@
-<p align="center" width="300">
-  <h2 align="center">Hi 👋 My name is Andres</h2>
-</p>
+Hi 👋 My name is Andres
+=======================
+
+Front End Developer
+-------------------
 
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [andresmontes.dev](http://andresmontes.dev)
