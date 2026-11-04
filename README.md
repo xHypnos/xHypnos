@@ -1,29 +1,40 @@
-Hi 👋 My name is Andres
-=======================
+<div align="center">
+<img src="./assets/header.svg" width="100%" alt="Andrés Montes — Full Stack Developer · Colombia" />
+<a href="https://andresmontes.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3DFF8A&center=true&vCenter=true&width=560&height=80&lines=Building+products+from+scratch+%F0%9F%9A%80;POS+systems+%E2%80%A2+CRMs+%E2%80%A2+Geo-intelligence;React+%2B+Next.js+%2B+Node.js+%2B+PostgreSQL;Always+learning%2C+always+shipping" alt="Typing intro" /></a>
+<br/>
+<img src="./assets/andres-coding.gif" width="420" alt="Pixel-art Andrés coding at night" />
+<p align="center"><a href="https://andresmontes.dev"><img src="https://img.shields.io/badge/Portfolio-andresmontes.dev-E0703C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/wamz"><img src="https://img.shields.io/badge/LinkedIn-wamz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:hypnoz@live.com"><img src="https://img.shields.io/badge/Email-hypnoz@live.com-6D4AFF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a> <a href="https://www.instagram.com/hypnos_a"><img src="https://img.shields.io/badge/Instagram-hypnos__a-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a></p>
 
-Front End Developer
--------------------
+</div>
 
-* 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [andresmontes.dev](http://andresmontes.dev)
-* ✉️  You can contact me at [hypnoz@live.com](mailto:hypnoz@live.com)
-* 🧠  I'm learning Back End with Node.js
+## 👋 About me
 
-
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="Full Stack Developer from Colombia with 3+ years building products from scratch. Focus: high-volume data systems, mission-critical apps, clean UIs. Hobbies: motorcycles, video games, anime, travel." />
 </p>
 
-### Socials
+## 🛠️ Tech stack
 
-<p align="left"> <a href="https://www.linkedin.com/in/wamz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xHypnos&show_icons=true&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xHypnos&layout=compact&show_icons=true&theme=gotham&bg_color=00000000)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,html,css,tailwind,postgres,prisma,firebase,redux,git,vscode,figma&perline=8" alt="Tech stack" />
+</p>
 
+## 📈 GitHub activity
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xHypnos&theme=tokyonight&hide_border=true&background=0D1117&ring=3DFF8A&fire=E0703C&currStreakLabel=3DFF8A&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xHypnos/xHypnos/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xHypnos/xHypnos/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/xHypnos/xHypnos/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xHypnos&label=Profile%20views&color=3DFF8A&style=flat-square" alt="Profile views" />
+</p>
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
